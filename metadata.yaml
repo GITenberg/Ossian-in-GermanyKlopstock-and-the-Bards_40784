@@ -1,0 +1,39 @@
+_repo: Ossian-in-GermanyKlopstock-and-the-Bards_40784
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40784-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tombo, Rudolf
+    alias: Tombo, Rudolph
+    birthdate: 1875
+    deathdate: 1914
+    gutenberg_agent_id: '1136'
+    url: http://www.gutenberg.org/2009/agents/1136
+description: ''
+gutenberg_issued: '2012-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40784'
+  lccn: '73144434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- Celtic influences'
+- !lcsh 'Ossian, active 3rd century -- In literature'
+- !lcsh 'Celts in literature'
+- !lcsh 'Middle Ages in literature'
+- !lcsh 'Macpherson, James, 1736-1796 -- Influence'
+- !lcsh 'Bards and bardism in literature'
+- !lcsh 'Macpherson, James, 1736-1796 -- Appreciation -- Germany'
+- !lcsh 'Klopstock, Friedrich Gottlieb, 1724-1803 -- Knowledge -- Literature'
+- !lcsh 'Medievalism -- Scotland -- History -- 18th century'
+- !lcc 'PR'
+- !lcsh 'Macpherson, James, 1736-1796. Ossian'
+- !lcsh 'Literary forgeries and mystifications -- History -- 18th century'
+title: "Ossian in Germany\r\nBibliography, General Survey, Ossian's Influence upon\
+  \ Klopstock and the Bards"
+url: http://www.gutenberg.org/ebooks/40784
